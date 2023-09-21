@@ -6,7 +6,7 @@ Hey, I'm Harith Riyadh, a dedicated Backend Developer based in Iraq. With 2 year
 ### Contact Information
 - Phone: +90 5313629618
 - Email: hareth.cn12012@gmail.com
-- [LinkedIn Profile]([(https://www.linkedin.com/in/harith-riyadh-b45b33273/)])
+- [LinkedIn Profile][(https://www.linkedin.com/in/harith-riyadh-b45b33273/)]
 
 ---
 
