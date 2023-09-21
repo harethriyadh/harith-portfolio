@@ -1,4 +1,4 @@
-# Harith Riyadh's GitHub Portfolio
+# Harith Riyadh
 
 ## Introduction
 Hey, I'm Harith Riyadh, a dedicated Backend Developer based in Iraq. With 2 years of professional experience and expertise in the Laravel platform, I'm skilled in JavaScript, PHP, HTML, and CSS. I'm committed to delivering top-quality web development solutions and am a strong team player.
